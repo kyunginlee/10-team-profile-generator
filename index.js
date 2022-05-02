@@ -1,8 +1,7 @@
 // Packages required for application
 const inquirer = require('inquirer');
-const path = require("path")
+const path = require('path')
 const fs = require('fs');
-const render = require("./lib/generatePage")
 const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
 const Manager = require("./lib/Manager");
@@ -10,6 +9,8 @@ const Manager = require("./lib/Manager");
 
 const output_dir = path.resolve(__dirname, "dist")
 const outputFile = path.join(output_dir, "index.html")
+
+const generate = require("./lib/generatePage");
 
 // converts employee expression to string objects 
 let employees = [];
@@ -272,7 +273,7 @@ function generateFile() {
     if (!fs.existsSync(output_dir)) {
         fs.mkdirSync(output_dir);
     } else {
-        fs.writeFileSync(outputFile, render(employees), "UTF-8");
+        fs.writeFileSync(outputFile, generate(employees), "UTF-8");
         console.log("Team page created!")
     }
 }
