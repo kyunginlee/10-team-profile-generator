@@ -44,6 +44,9 @@ On opening the file in your code editor, ensure you are in the root directory an
   Repository:
  [https://github.com/kyunginlee/10-team-profile-generator](https://github.com/kyunginlee/10-team-profile-generator)
  
+ Application demo:
+ [https://vimeo.com/705613242/f1c233e19a](https://vimeo.com/705613242/f1c233e19a)
+ 
   Feel free to contact me here:<br>
   [Github: kyunginlee](https://github.com/kyunginlee)<br>
   [Email: dotjesslee@gmail.com](mailto:$data.email})
