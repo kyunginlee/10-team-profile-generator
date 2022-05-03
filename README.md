@@ -3,7 +3,7 @@
 
   ## Contents
   * [Description](#description)
-  * [Installation](#install)
+  * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
   * [Links](#links)
@@ -12,6 +12,13 @@
   ---
   A team profile generator which will collect primary contact information and populate the data into a neat, readable html page so that the user is able to quickly access and update these details as required.
  
+
+https://user-images.githubusercontent.com/99236183/166404850-ea09c4ce-eb87-4bf7-9d1c-820165a1b258.mp4
+
+<br>
+Output shown below:
+<br>
+<img width="1019" alt="demo-output" src="https://user-images.githubusercontent.com/99236183/166405383-be17572f-ca29-4707-a4dd-5c929add9bb1.png">
 
   ## [Installation](#contents)
   ---
