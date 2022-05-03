@@ -19,6 +19,8 @@ On opening the file in your code editor, ensure you are in the root directory an
 <br>
 1) To run unit tests, type the command line 'npm test. 
 2) to start the application, type the command line 'node index.js' and complete the prompts.
+3) On successful completion, terminal should show the message 'Team page created!'
+4) Head over to the 'dist' folder. The 'index.html' should be populated with the data input.
 
   
   ## [Usage](#contents)
