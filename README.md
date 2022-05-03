@@ -41,6 +41,9 @@ On opening the file in your code editor, ensure you are in the root directory an
 
   ## [Links](#contents)
   ---
+  Repository:
+ [https://github.com/kyunginlee/10-team-profile-generator](https://github.com/kyunginlee/10-team-profile-generator)
+ 
   Feel free to contact me here:<br>
   [Github: kyunginlee](https://github.com/kyunginlee)<br>
   [Email: dotjesslee@gmail.com](mailto:$data.email})
